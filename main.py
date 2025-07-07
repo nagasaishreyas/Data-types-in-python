@@ -1,8 +1,9 @@
-print("Enter your name: ")
+a = 5
+print("Type of a is:", type(a))
 
-name = input("Enter your name:")
-
-print("\nHello", name ,"\nWelcome to Codingal")
-
-
-
+b = 2.5
+print("Type of b is:", type(b))
+c = "coding"
+print("Type of c is:", type(c))
+d = True
+print("Type of d is:", type(d))
